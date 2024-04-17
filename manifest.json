@@ -1,0 +1,11 @@
+{
+	"id": "image-auto-refresh",
+	"name": "Image Auto Refresh",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Auto refresh images when they are modified on disk.",
+	"author": "Matt Selby",
+	"authorUrl": "https://github.com/matthewjselby",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
