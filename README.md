@@ -10,7 +10,7 @@ The plugin watches for changes to files using the vault API. Once a change is de
 
 This plugin will be submitted to the [official list](https://github.com/obsidianmd/obsidian-releases/blob/master/community-plugins.json), and thus hopefully will be available for install from there shortly.
 
-For manual installation, create a folder in `{your_vault_folder}/.obsidian/plugins` and add the `main.js`, `manifest.json`, and `styles.css` files from a release to the folder. Then enable the plugin in Obsidian preferences.
+For manual installation, create a folder in `{your_vault_folder}/.obsidian/plugins`, add the `main.js` and `manifest.json` files from a release to the folder, and enable the plugin in Obsidian preferences.
 
 # Settings
 
