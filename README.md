@@ -4,7 +4,7 @@ This plugin watches for changes to files in an Obsidian vault and forces a refre
 
 # How does it work?
 
-The plugin watches for changes to files using the vault API. Once a change is detected, the plugin queries the document for any `img` tags and increments the numerical query parameter appended to all images by obsidian. This forces a refresh of the image.
+The plugin watches for changes to files using the vault API. Once a change is detected in an image file, the plugin queries the document for any `img` tags associated with the image and increments the numerical query parameter appended to all images by obsidian. This forces a refresh of the image.
 
 # Installation
 
